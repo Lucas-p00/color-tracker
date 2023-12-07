@@ -2,7 +2,7 @@
 
 Esta aplicação simples, realiza a captura da webcam e detecta o objeto com a determinada cor especificada.
 
-## Para executar a aplicação, instale:
+## Para utilizar a aplicação, instale:
 
 - NumPy:
 ```bash
