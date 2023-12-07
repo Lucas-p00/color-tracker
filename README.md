@@ -1,1 +1,2 @@
-# color-tracker
+# Color Tracker
+## Color Tracker
