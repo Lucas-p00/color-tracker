@@ -4,7 +4,11 @@ Esta aplicação simples, realiza a captura da webcam e detecta o objeto com a d
 
 ## Para executar a aplicação, instale:
 
-- NumPy: 
+- NumPy:
+```bash
 pip install numpy
-- OpenCV: 
+```
+- OpenCV:
+```bash
 pip install opencv-python
+```
